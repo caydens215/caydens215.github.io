@@ -1,0 +1,21 @@
+body {
+    font-family:  Helvetica, Verdana, sans-serif;
+}
+
+p, h1, h2, ul, h3, form {
+    padding-left: 100px;
+}
+p, ul, ol {
+    font-size: 14pt;
+    line-height: 1.5;
+    padding: 5px 200px 30px 150px;
+    width: 45%;
+}
+
+img {
+    padding: 5px 200px 30px 150px;
+}
+
+a {
+    color: black;
+}
